@@ -1,0 +1,73 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+/* header */
+.logo-company-studio {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #2E2F42;
+
+}
+.logo-company-web {
+    font-family: Raleway, sans-serif;
+    color: #4D5AE5;
+}
+
+.list-navbar a {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #2E2F42;
+
+}
+
+.info-company a {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #434455;
+}
+
+
+
+/* main */
+.section-effective {
+    background-color: #2E2F42;
+    width: 1440px;
+    height: 600px;
+    text-align: center;
+    color: #fff;
+}
+
+.text-effective {
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+}
+
+.button-order {
+    background-color: #4D5AE5;
+}
+
+.button-text {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+}
+
+
+
+/* footer */
